@@ -13,7 +13,7 @@ if(PAISES == "Colombia" || PAISES == "colombia" || PAISES == "COLOMBIA"){
         
         document.write(`si viajaras a ${PAISES}, serías <b>${groseriasColombianas}</b> <br>`)
         
-        }
+    }
 
     }
 
